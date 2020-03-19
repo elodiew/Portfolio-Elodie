@@ -1,13 +1,14 @@
 # Portfolio-Elodie
  
-Apprendre HTML et CSS et créer un site Web
-Projet de fomration Développeur Web
+Learn HTML and CSS and create a website
 
-- Apprendre HTML et CSS et créer un site Web
-- Apprendre Bootstrap et créer un CV en ligne responsive
-- Hébergement, noms de domaine et mettre un site en ligne
-- Apprendre PHP et créer un formulaire de contact
-- Apprendre PHP et MySQL et créer un site Web dynamique
+Web Developer Training Project
+
+- Learn HTML and CSS and create a website
+- Learn Bootstrap and create a responsive online CV
+- Hosting, domain names and putting a site online
+- Learn PHP and create a contact form
+- Learn PHP and MySQL and build a dynamic website
 
 - HTML5
 - CSS3
